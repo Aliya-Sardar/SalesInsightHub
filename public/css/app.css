@@ -1,0 +1,50 @@
+.bg-img 
+{
+      /* Full height */
+      height: 100vh;
+  
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+  /* Center the text and button */
+.text-center 
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff; /* Change text color if needed */
+}
+
+
+.body
+{
+    background-color: #ededed;
+}
+
+.footer-bg
+{
+    margin-top: auto;;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+
+
+.img
+{
+    width: 100% ;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px; /* Adjust the padding value as needed */
+    text-align: left;
+}

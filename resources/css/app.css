@@ -1,0 +1,13 @@
+.body
+{
+    background-color: #040404;
+}
+
+.footer-bg
+{
+    margin-top: 20px;
+    padding-top:10px ;
+    padding-bottom: 20px;
+    background-color: black;
+    color: white;
+}
